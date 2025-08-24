@@ -7,6 +7,9 @@ Ce script PowerShell permet de renommer facilement des fichiers email au format 
 Il est conçu pour automatiser le classement de courriels exportés, en leur appliquant un préfixe descriptif et une date, selon un format prédéfini.
 
 ---
+<p align="center">
+  <img width="518" height="323" alt="image" src="https://github.com/user-attachments/assets/1c5531ef-1438-4536-b76e-95cc2e8f4b23" />
+</p>
 
 ## 🎯 Fonctionnalités
 
