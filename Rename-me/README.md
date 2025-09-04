@@ -8,7 +8,7 @@ Il est conçu pour automatiser le classement de courriels exportés, en leur app
 
 ---
 <p align="center">
-    <img width="552" height="332" alt="image" src="https://github.com/user-attachments/assets/29e9295f-bf61-4607-810b-f4d07df74fa7" />
+   <img width="556" height="333" alt="image" src="https://github.com/user-attachments/assets/33881933-9430-4182-9ef1-113a0aba33bb" />
 </p>
 
 
