@@ -17,6 +17,9 @@ Il est conçu pour automatiser le classement de courriels exportés, en leur app
 - Interface graphique Windows Forms
 - Sélection automatique des fichiers `.msg` présents dans le dossier courant
 - Liste déroulante de catégories prédéfinies (ex. : relances, devis, factures, etc.)
+<p align="center">
+   <img width="554" height="494" alt="image" src="https://github.com/user-attachments/assets/c2e35ffa-d59b-4f99-8ddd-eb8c0e760c57" />
+</p>
 - Renommage du fichier au format : `YYYYMMDD_Prefixe.extension`
 - Retour d’état visuel : succès ou erreur
 - Rafraîchissement automatique de la liste après chaque renommage
