@@ -8,8 +8,9 @@ Il est conçu pour automatiser le classement de courriels exportés, en leur app
 
 ---
 <p align="center">
-  <img width="518" height="323" alt="image" src="https://github.com/user-attachments/assets/1c5531ef-1438-4536-b76e-95cc2e8f4b23" />
+  <img width="545" height="325" alt="image" src="https://github.com/user-attachments/assets/d951644c-5559-48d9-9253-e345f05df6ad" />
 </p>
+
 
 ## 🎯 Fonctionnalités
 
@@ -19,6 +20,7 @@ Il est conçu pour automatiser le classement de courriels exportés, en leur app
 - Renommage du fichier au format : `YYYYMMDD_Prefixe.extension`
 - Retour d’état visuel : succès ou erreur
 - Rafraîchissement automatique de la liste après chaque renommage
+- Mise à jour possible de la liste avec un bouton "actualiser"
 
 ---
 
@@ -32,7 +34,7 @@ Il est conçu pour automatiser le classement de courriels exportés, en leur app
 
 ## ▶️ Utilisation
 
-1. **Copiez le script dans un fichier** nommé par exemple `renommage_msg.ps1`
+1. **Copiez le script dans un fichier** nommé par exemple `renommage_msg.ps1` ou `rename-me.exe` 
 2. Placez-le **dans le dossier contenant vos fichiers `.msg`**
 3. Exécutez le script via PowerShell :
    ` .\renommage_msg.ps1`
