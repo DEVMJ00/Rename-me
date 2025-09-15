@@ -80,6 +80,7 @@ $comboOptions.Items.AddRange(@(
     "--- INTERVENTIONS ---",
     "Demande d'intervention",
     "Demande du rapport d'intervention",
+    "Photos",
     "Intervention programmée",
     "Intervention réalisée",
     "Rapport d'intervention",
@@ -280,6 +281,7 @@ $mapping = @{
     "Demande de précisions"                = "Demande_de_precisions"
     "Demande de photos"                    = "Demande_de_photos"
     "Demande du rapport d'intervention"    = "Demande_rapport_d_intervention"
+    "Photos"                               = "Photos"
     "Intervention programmée"              = "Intervention_a_venir"
     "Intervention réalisée"                = "Confirmation_intervention_terminee"
     "Rapport d'intervention"               = "Rapport_d_intervention"
