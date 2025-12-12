@@ -70,22 +70,31 @@ $comboOptions.Items.AddRange(@(
     "Information complémentaire",
     "Echanges de mails",
     "Demande de précisions",
+	"Demande de conseils",
     "Demande de photos",
 
     "--- DEVIS ---",
     "Demande de devis",
     "Devis",
+	"Proposition tarifaire(badge/télécommande)"
+	"Accord hiérarchie pour validation devis"
     "Bon pour accord",
 
     "--- INTERVENTIONS ---",
     "Demande d'intervention",
+	"Demande d'une nouvelle intervention",
+	"Demande de prise en charge GPA",
+	"Demande de la date d'intervention",
     "Demande du rapport d'intervention",
     "Photos",
+	"Photos après visite technique",
     "Intervention programmée",
+	"Intervention annulée",
     "Intervention réalisée",
     "Rapport d'intervention",
 
     "--- AUTRES ---",
+	"Constat Amiable Dégât Des Eaux",
     "Facture",
     "Réponse"
 ))
@@ -275,16 +284,25 @@ $mapping = @{
     "Information complémentaire"           = "Information_complementaire"
     "Echanges de mails"                    = "Echanges_de_mails"
     "Demande de devis"                     = "Demande_de_devis"
+	"Accord hiérarchie pour validation devis" = "accord_pour_validation_du_devis"
     "Devis"                                = "Devis"
+	"Proposition tarifaire(badge/télécommande)" = "Proposition_tarifaire"
     "Demande d'intervention"               = "Demande_d_intervention"
+	"Demande d'une nouvelle intervention"  = "Demande_d_une_nouvelle_intervention"
     "Bon pour accord"                      = "Bon_Pour_Accord"
     "Demande de précisions"                = "Demande_de_precisions"
+	"Demande de conseils"                  = "Demande_de_conseils"
+    "Demande de prise en charge GPA"       = "Demande_prise_en_charge_GPA" 
     "Demande de photos"                    = "Demande_de_photos"
+	"Demande de la date d'intervention"    = "Demande_date_intervention"
     "Demande du rapport d'intervention"    = "Demande_rapport_d_intervention"
     "Photos"                               = "Photos"
+	"Photos après visite technique"        = "Photos_visite_technique"
     "Intervention programmée"              = "Intervention_a_venir"
+	"Intervention annulée"                 = "Intervention_annulee"
     "Intervention réalisée"                = "Confirmation_intervention_terminee"
     "Rapport d'intervention"               = "Rapport_d_intervention"
+	"Constat Amiable Dégât Des Eaux"	   = "Constat DDE"
     "Facture"                              = "Facture"
     "Réponse"                              = "Reponse"
 }
